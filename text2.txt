@@ -1,0 +1,12 @@
+ Volume in drive C is d:
+ Volume Serial Number is 8E0C-C641
+
+ Directory of C:\Users\91810\OneDrive\Desktop\My Project
+
+29-05-2025  09:01    <DIR>          .
+29-05-2025  07:19    <DIR>          ..
+29-05-2025  07:21               440 index.html
+29-05-2025  07:22                 9 text1
+29-05-2025  09:01                 0 text2.txt
+               3 File(s)            449 bytes
+               2 Dir(s)  25,430,282,240 bytes free
